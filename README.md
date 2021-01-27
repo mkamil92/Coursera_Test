@@ -1,2 +1,2 @@
 # Coursera_Test
-My first works on repositaory
+My first works on repository
